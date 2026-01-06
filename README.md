@@ -9,7 +9,7 @@ A simple file system simulator in C++ that allows creating, reading, writing, an
 - Simple console-based menu
 ## How to Run
 1. Clone the repository:
-   git clone 
+   git clone https://github.com/RAHUl122004/FileSystemSimulator.git 
 2. Navigate to the project folder:
    cd FileSystemSimulator
 3. Compile the code:
